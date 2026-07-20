@@ -2,10 +2,6 @@
 
 A simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 
-## 🎮 Play
-
-Just open `tic tac toe.html` in your browser.
-
 ## ✨ Features
 
 - Two-player mode (X and O)
