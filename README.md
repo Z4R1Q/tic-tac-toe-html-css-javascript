@@ -23,7 +23,7 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 
 ## 👤 Author
 
-[Z4R1Q] – [https://github.com/Z4R1Q]
+Z4R1Q – [https://github.com/Z4R1Q]
 
 ## 📄 License
 
