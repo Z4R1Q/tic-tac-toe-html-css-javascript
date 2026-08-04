@@ -2,29 +2,32 @@
 
 A simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 
-## ✨ Features
+# Features
 
 - Two-player mode (X and O)
 - Win detection (rows, columns, diagonals)
 - Draw detection
 - Simple and clean UI
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript (vanilla)
 
-## 📁 Project Structure
+# Project Structure
 
 - `tic tac toe.html` – Main HTML file
 - `tic tac toe.css` – Styles for the game
 - `tic tac toe.js` – Game logic and interactivity
 
-## 👤 Author
+# How it works
+-
+
+# 👤 Author
 
 Z4R1Q – [https://github.com/Z4R1Q]
 
-## 📄 License
+# 📄 License
 
 No license. All rights reserved.
