@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: green;
     display: flex;
@@ -65,3 +66,72 @@ body{
     font-size: 2rem;
 }
 
+=======
+body{
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+}
+
+#contanier{
+    background-color: rgb(255, 0, 30);
+    width: 430px;
+    padding: 24px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    border-radius: 18px;
+}
+
+#board{
+    background-color: white;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+    padding: 12px;
+    border-radius: 16px;
+    margin-top: 22px;
+}
+
+#win{
+    background-color: inherit;
+    height: 40px;
+    border-radius: 14px;
+    margin: 14px auto 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+    font-size: 1.2rem;
+    width: 100%;
+}
+
+.cell{
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    border: none;
+    border-radius: 12px;
+    background-color: rgb(85, 255, 0);
+    font-size: 56px;
+    color: #fffbfb;
+    font-weight: 700;
+    cursor: pointer;
+    transition: transform 0.1s ease, background-color 0.2s ease;
+}
+
+.cell:hover{
+    transform: scale(1.03);
+    background-color: #85f09b;
+}
+
+#heading{
+    color: white;
+    text-align: center;
+    margin: 0;
+    font-size: 2rem;
+}
+
+>>>>>>> 2ebb376e2c21d0963bfac89a04616b416fcb6791
