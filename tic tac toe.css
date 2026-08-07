@@ -1,3 +1,9 @@
+/* A tic tac toe game made just for parcticing my html layout , css styling and javascripts logic */
+/* CSS = tic tac toe.css */
+
+/* CSS for Tic Tac Toe Game */
+
+/* Body Styles */
 body{
     background-color: green;
     display: flex;
@@ -7,6 +13,7 @@ body{
     margin: 0;
 }
 
+/* contanier of the game */
 #contanier{
     background-color: rgb(255, 0, 30);
     width: 430px;
@@ -15,6 +22,7 @@ body{
     border-radius: 18px;
 }
 
+/* Board Styles or button frame */
 #board{
     background-color: white;
     display: grid;
@@ -25,6 +33,7 @@ body{
     margin-top: 22px;
 }
 
+/* Win and turn messages */
 #win{
     background-color: inherit;
     height: 40px;
@@ -40,6 +49,7 @@ body{
     width: 100%;
 }
 
+/* Cell Styles */
 .cell{
     width: 100%;
     aspect-ratio: 1 / 1;
@@ -53,11 +63,13 @@ body{
     transition: transform 0.1s ease, background-color 0.2s ease;
 }
 
+/* cell hover effect */
 .cell:hover{
     transform: scale(1.03);
     background-color: #85f09b;
 }
 
+/* game heading style */
 #heading{
     color: white;
     text-align: center;

@@ -1,3 +1,8 @@
+// A tic tac toe game made just for practicing my HTML layout, CSS styling, and JavaScript logic
+// JavaScript = tic tac toe.js
+
+// JavaScript for Tic Tac Toe Game
+
 const cells = document.querySelectorAll('.cell');
 const winDisplay = document.getElementById('win');
 let currentPlayer = 'X';
