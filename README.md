@@ -27,7 +27,7 @@ A simple Tic Tac Toe game built with **HTML**, **CSS**, and **JavaScript**.
 
 # 👤 Author
 [GITHUB](https://github.com/ZARIQ-KHAN) 
-[LEETCODE](https://leetcode.com/u/Z4R1Q/)
+[LEETCODE](https://leetcode.com/u/ZARIQ-KHAN/)
 [LINKEDIN](https://www.linkedin.com/in/zariq-khan-1aabb542b/?skipRedirect=true)
 
 # 📄 License
